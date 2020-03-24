@@ -72,7 +72,7 @@
                         </TransformGroup>
                     </Ellipse.RenderTransform>
                 </Ellipse>
-                <Ellipse Height="37" Width="39" RenderTransformOrigin="0.5,0.5" Canvas.Left="19" Canvas.Top="-29">
+                <Ellipse Height="38" Width="39" RenderTransformOrigin="0.5,0.5" Canvas.Left="29" Canvas.Top="21">
                     <Ellipse.RenderTransform>
                         <SkewTransform CenterX="-8"></SkewTransform>
                     </Ellipse.RenderTransform>
